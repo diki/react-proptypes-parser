@@ -1,11 +1,15 @@
 import React from 'react';
-import * as salim from 'asdjkalsd';
+import * as nssource from 'nssource';
 import { haci } from 'tt';
-import { four as five } from 'three';
+import { a as b } from 'c';
 import { six, seven } from 'eight';
 import { one, two as three } from 'five';
-import one, {two} from 'four';
+import one, {two as six, three} from 'hulooo';
+import one, { two as three, four, five as six} from 'gurbuz';
+import selim, sari as demir from 'delen';
 
+import samba from 'rumba';
+import * as foo from 'bar';
 export class test extends Component {
   static propTypes =                {
     adana 
